@@ -1,4 +1,5 @@
 <script>
+    export const prerender = true;
     import { Button } from "fluent-svelte";
 </script>
 
