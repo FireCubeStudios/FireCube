@@ -23,7 +23,7 @@
 	"type": "module",
 	"dependencies": {
 		"fluent-svelte": "^1.6.0"
-	}
+	},
 	"engines": {
     		"node": ">=18.13.0"
 	}
